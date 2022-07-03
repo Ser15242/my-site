@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+.socials {
+display:block;
+width:32px;                      /* Ширина, влияет на поле внурти окна: 32 */
+height:32px;                     /* Высота, влияет на поле внурти окна: 32 */
+background:url('img/socials/share.png') no-repeat;
+cursor:pointer;
+position:relative;
+}
+
+.socials {
+margin:0 auto;
+}
+
+.socials {
+margin-bottom:0px;
+}
+
+ul.reset,
+ul.reset li {
+display:block;
+list-style:none;
+padding:0;
+margin:0;
+}
+
+ul.reset li {
+position:absolute;
+}
+
+ul.reset li a {
+outline:none;
+}
+
+a {
+color:#fff;
+}
+
+a img {
+border:none;
+}
+
+
